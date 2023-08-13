@@ -1,0 +1,14 @@
+.note{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    white-space: pre-wrap;
+    
+}
+.note-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}

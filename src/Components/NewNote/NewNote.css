@@ -1,0 +1,14 @@
+.new-note{
+    text-align: center;
+    padding-top: 50%;
+    padding-bottom: 50%;
+    
+}
+.btn{
+    padding: 20px;
+    font-size: 150px;
+    color: white;
+    border-radius: 30px;
+    outline-style: dotted;
+    
+}

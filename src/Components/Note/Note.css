@@ -1,0 +1,23 @@
+* {
+  margin: 2px;
+}
+.note {
+  padding: 1rem;
+  min-width: 250px;
+  min-height: 325px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  white-space: pre-wrap;
+}
+.card-action {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.MuiOutlinedInput-notchedOutline {
+  border: none !important;
+}
+.btn {
+  cursor: pointer;
+}

@@ -1,0 +1,8 @@
+.Box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.btn{
+    align-self: flex-end;
+}
